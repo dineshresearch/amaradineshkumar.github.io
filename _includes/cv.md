@@ -30,25 +30,6 @@ I strongly believe in open science and reproducible research and actively publis
 
 </table>
 
-### Book Chapter[under review]
-
-<table class="table table-hover">
-
-<tr>
-<td>
-    <strong>Design and Investigation of an Extensible Framework for Malicious Domain Prediction Using Deep Learning Algorithms</strong><br> 
-Amara Dinesh Kumar, Harish Thodupunoori, Vinayakumar R and Soman KP<br>
-</td>
-</tr>
-
-<tr>
-<td>
-    <strong>Design and Implemention of Real Time Packet Level Controller Area Network (CAN) Intrusion Detection System Using Deep Learning</strong><br> 
-Amara Dinesh Kumar, Rishish Kumar Naik, Vinayakumar R and Soman KP<br>
-</td>
-</tr>
-
-</table>
 
 
 ### Journal Papers 
@@ -69,7 +50,7 @@ Special Issue on the Emergence of Humanistic Digital Data in Informatics -ICT-Ex
     <strong>DeepImageSpam: Deep Learning based Image Spam Detection</strong><br> 
 <strong>Amara Dinesh Kumar</strong>,Vinayakumar R, Soman KP<br>
 Special Issue on the Emergence of Humanistic Digital Data in Informatics -ICT-Express<br>
-[under Review] <a href='https://github.com/dineshresearch/DeepImageSpam' target='_blank'>[code]</a><br>
+[under Review] <a href='https://github.com/dineshresearch/DeepImageSpam' target='_blank'> [code] </a><br>
 </td>
 </tr>
 
@@ -78,7 +59,7 @@ Special Issue on the Emergence of Humanistic Digital Data in Informatics -ICT-Ex
     <strong>Real Time Character Level Malicious Domain Name Prediction Using Deep Learning</strong><br> 
 <strong>Amara Dinesh Kumar</strong>, Harish Thodupunoori, Vinayakumar R, Soman KP<br>
 Springer Communications in Computer and Information Science Series(CCIS), ISSN: 1865:0929<br>
-[under Review] <a href='https://github.com/dineshresearch/Real-Time-Character-Level-Malicious-DomainName-Prediction-Using-Deep-Learning' target='_blank'>[code]</a><br>
+[under Review] <a href='https://github.com/dineshresearch/Real-Time-Character-Level-Malicious-DomainName-Prediction-Using-Deep-Learning' target='_blank'> [code] </a><br>
 </td>
 </tr>
 
@@ -94,10 +75,30 @@ Springer Communications in Computer and Information Science Series(CCIS), ISSN: 
 <td>
 <strong>Novel Deep Learning Model for Traffic Sign Detection Using Capsule Networks</strong><br>
 <strong>Amara Dinesh Kumar</strong><br>
-[<a href='https://arxiv.org/abs/1805.04424' target='_blank'>paper</a>] [<a href='https://github.com/dineshresearch/Novel-Deep-Learning-Model-for-Traffic-Sign-Detection-Using-Capsule-Networks' target='_blank'>code</a>]<br>
+[<a href='https://arxiv.org/abs/1805.04424' target='_blank'> paper </a>] [<a href='https://github.com/dineshresearch/Novel-Deep-Learning-Model-for-Traffic-Sign-Detection-Using-Capsule-Networks' target='_blank'> code </a>]<br>
 </td>
 </tr>
 
+
+</table>
+
+### Book Chapter [under review]
+
+<table class="table table-hover">
+
+<tr>
+<td>
+    <strong>Design and Investigation of an Extensible Framework for Malicious Domain Prediction Using Deep Learning Algorithms</strong><br> 
+Amara Dinesh Kumar, Harish Thodupunoori, Vinayakumar R and Soman KP<br>
+</td>
+</tr>
+
+<tr>
+<td>
+    <strong>Design and Implemention of Real Time Packet Level Controller Area Network (CAN) Intrusion Detection System Using Deep Learning</strong><br> 
+Amara Dinesh Kumar, Rishish Kumar Naik, Vinayakumar R and Soman KP<br>
+</td>
+</tr>
 
 </table>
 
