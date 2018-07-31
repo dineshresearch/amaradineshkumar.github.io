@@ -1,4 +1,4 @@
-I am a Second year masters student at the Amrita Vishwa Vidyapeetham in Automotive Electronincs branch and also as a research assistent at Computational Engineering and Networking (CEN). I am  with the <a href='https://vinayakumarr.github.io/Cybersecurity-Lab-at-CEN/' target='_blank'> Cybersecurity-Lab-at-CEN </a> and <a href='https://vinayakumarr.github.io/ComputationalThinking-Lab-at-CEN/' target='_blank'> Computational Thinking-Lab-at-CEN </a>, and student of <a href='http://nlp.amrita.edu/somankp/' target='_blank'> Prof. Soman KP </a> on Artificial intelligence and most specifically, Robotics, Autonomous vehicles, Machine Learning, Data mining and Deep learning, Reinforcement Learning, Causal inference,Non linear dynamics, Convex optimisation, Natural language processing, Signal and Image processing, Cyber Security. I spent the first year of my Masters 
+I am a Second year masters student at the Amrita Vishwa Vidyapeetham in Automotive Electronics branch and also as a research assistant at Computational Engineering and Networking (CEN). I am working with the <a href='https://vinayakumarr.github.io/Cybersecurity-Lab-at-CEN/' target='_blank'> Cybersecurity-Lab-at-CEN </a> and <a href='https://vinayakumarr.github.io/ComputationalThinking-Lab-at-CEN/' target='_blank'> Computational Thinking-Lab-at-CEN </a>, and student of <a href='http://nlp.amrita.edu/somankp/' target='_blank'> Prof. Soman KP </a> and my research areas are Robotics, Autonomous vehicles, Machine Learning, Data mining and Deep learning, Reinforcement Learning, Causal inference,Non linear dynamics, Convex optimisation, Natural language processing, Signal and Image processing, Cyber Security. 
 
 I strongly believe in open science and reproducible research and actively publish code on my [Github profile](https://github.com/dineshresearch/).<br><br>
 <b>I am Available on the job market!!</b>
@@ -7,7 +7,7 @@ I strongly believe in open science and reproducible research and actively publis
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>July 2018</td>
-  <td><b>Secured 2nd place</b> in DMD 2018 shared task in Cybersecurity domain. More details avilable at <a href='http://nlp.amrita.edu/DMD2018/' target='_blank'>DMD2018</a></td>
+  <td><b>Secured 2nd place</b> in DMD 2018 shared task in Cybersecurity domain. More details available at <a href='http://nlp.amrita.edu/DMD2018/' target='_blank'>DMD2018</a></td>
 </tr>
 
 <tr>
@@ -90,14 +90,14 @@ Springer Communications in Computer and Information Science Series(CCIS), ISSN: 
 <tr>
 <td>
     <strong>Design and Investigation of an Extensible Framework for Malicious Domain Prediction Using Deep Learning Algorithms</strong><br> 
-Amara Dinesh Kumar, Harish Thodupunoori, Vinayakumar R and Soman KP<br>
+<strong>Amara Dinesh Kumar</strong>, Harish Thodupunoori, Vinayakumar R and Soman KP<br>
 </td>
 </tr>
 
 <tr>
 <td>
-    <strong>Design and Implemention of Real Time Packet Level Controller Area Network (CAN) Intrusion Detection System Using Deep Learning</strong><br> 
-Amara Dinesh Kumar, Rishish Kumar Naik, Vinayakumar R and Soman KP<br>
+    <strong>Design and Implementation of Real Time Packet Level Controller Area Network (CAN) Intrusion Detection System Using Deep Learning</strong><br> 
+<strong>Amara Dinesh Kumar</strong>, Rishish Kumar Naik, Vinayakumar R and Soman KP<br>
 </td>
 </tr>
 
@@ -137,7 +137,7 @@ Amara Dinesh Kumar, Rishish Kumar Naik, Vinayakumar R and Soman KP<br>
 + Reinforcement Learning
 + Digital Control System 
 + Multi Sensor Data Fusion
-+ Probabilty Graphical Models
++ Probability Graphical Models
 + Sensing For Autonomous Vehicles 
 + Electric Vehicle Architecture 
 + Power Electronics and Convertors
@@ -162,7 +162,7 @@ Html, CSS, JavaScript, Bash, Awk,Sed ,Perl , XML
 <tr>
     <td class='col-md-2'>Embedded System Softwares</td>
   <td markdown="1">
-Matlab, Simulink, CarSim, Canoe, KEIL, Protius, Arduino Studio
+Matlab, Simulink, CarSim, Canoe, KEIL, Proteus, Arduino Studio
   </td>
 </tr>
 <tr>
