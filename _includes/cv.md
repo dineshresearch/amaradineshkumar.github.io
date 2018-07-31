@@ -27,12 +27,13 @@ I strongly believe in open science and reproducible research and actively publis
   <td>Registered for NIPS 2018: AI for Prosthetics Challenge at <a href='https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge' target='_blank'>AI for Prosthetics Challenge 2018</a>.</td>
 </tr>
 <tr>
-
+  
+  
+  
 </table>
 
 
-
-### Journal Papers 
+## <i class="fa fa-chevron-right"></i> Journal Papers 
 
 <table class="table table-hover">
 
@@ -67,7 +68,7 @@ Springer Communications in Computer and Information Science Series(CCIS), ISSN: 
 
 
 
-### Conference Papers 
+## <i class="fa fa-chevron-right"></i> Conference Papers 
 
 <table class="table table-hover">
 
@@ -82,7 +83,7 @@ Springer Communications in Computer and Information Science Series(CCIS), ISSN: 
 
 </table>
 
-### Book Chapter [under review]
+## <i class="fa fa-chevron-right"></i> Book Chapters [under review]
 
 <table class="table table-hover">
 
