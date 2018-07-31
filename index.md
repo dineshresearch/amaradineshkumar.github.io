@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Vinayakumar R
+title: Amara Dinesh Kumar
 ---
 
 ---
