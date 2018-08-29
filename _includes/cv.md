@@ -27,22 +27,17 @@ I strongly believe in open science and reproducible research and actively publis
   <td>Registered for NIPS 2018: AI for Prosthetics Challenge at <a href='https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge' target='_blank'>AI for Prosthetics Challenge 2018</a>.</td>
 </tr>
 <tr>
-  
-  
-  
 </table>
 
 
 ## <i class="fa fa-chevron-right"></i> Journal Papers 
-
 <table class="table table-hover">
-
 <tr>
 <td>
-    <strong>A Brief Survey on Autonomous Vehicle Possible Attacks,Exploits and Vulnerabilities</strong><br> 
+<strong>A Brief Survey on Autonomous Vehicle Possible Attacks,Exploits and Vulnerabilities</strong><br> 
 <strong>Amara Dinesh Kumar</strong>,Vinayakumar R, Soman KP<br>
 Special Issue on the Emergence of Humanistic Digital Data in Informatics -ICT-Express<br>
-[under Review] </a><br>
+[under Review] <br>
 </td>
 </tr>
 
